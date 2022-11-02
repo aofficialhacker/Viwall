@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421262717857",
+    "project_id": "wallpaperfirestore-aad2a",
+    "storage_bucket": "wallpaperfirestore-aad2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421262717857:android:824ed637f303d6f53911e0",
+        "android_client_info": {
+          "package_name": "com.example.viwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421262717857-jgbkbpn9j5pf3bcdoplva3jjhkv48h60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdC6eCaeFBeTZ9sGyQq-GoVl3oDiX3ubs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421262717857-jgbkbpn9j5pf3bcdoplva3jjhkv48h60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
